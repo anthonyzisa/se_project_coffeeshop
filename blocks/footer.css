@@ -45,6 +45,7 @@
 
 .footer__content_column {
   margin-left: auto;
+  flex-direction: column;
 }
 
 .footer__social-heading {
